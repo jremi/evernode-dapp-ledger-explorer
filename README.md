@@ -2,6 +2,10 @@
 
 If you have an [Evernode](https://github.com/EvernodeXRPL) host that you want to monitor created ledgers or view a specific ledger, then you can use this simple web-based app. The app is built with Vue 3 using composition API.
 
+## Screenshots
+<img width="1054" alt="screenshot-1" src="https://github.com/jremi/evernode-dapp-ledger-explorer/assets/5322988/91c9a514-1c57-409d-8a80-5e5ed29e2510">
+<img width="1050" alt="screenshot-2" src="https://github.com/jremi/evernode-dapp-ledger-explorer/assets/5322988/7c36b98f-6ab3-4bde-90c7-89279643fafd">
+
 ## Why was this built?
 
 It was to provide both an example of using the `HotPocket.events.ledgerEvent` within a basic single page application but also to have a easy way to searh ledger sequence numbers or monitor newly created ledgers in real-time thru a graphical web-based user-interface.
